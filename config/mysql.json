@@ -1,7 +1,7 @@
 {
     "Username": "root",
-    "password": "root",
+    "password": "Jay%40#123",
     "port": 3306,
-    "Database": "db_name",
+    "Database": "db_conn",
     "host": "localhost"
 }
